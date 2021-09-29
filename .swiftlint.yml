@@ -1,0 +1,8 @@
+identifier_name:
+  min_length: 1
+
+nesting:
+  type_level: 2
+
+disabled_rules:
+  - for_where
